@@ -1,0 +1,7 @@
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\bin\Debug\Middle_Temp.exe.config
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\bin\Debug\Middle_Temp.exe
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\bin\Debug\Middle_Temp.pdb
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\obj\Debug\Middle_Temp.csproj.AssemblyReference.cache
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\obj\Debug\Middle_Temp.csproj.CoreCompileInputs.cache
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\obj\Debug\Middle_Temp.exe
+E:\C#_programm\GB_2\Middle_Temp\Middle_Temp\obj\Debug\Middle_Temp.pdb

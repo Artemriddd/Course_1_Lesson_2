@@ -1,0 +1,7 @@
+E:\C#_programm\GB_2\Month\Month\bin\Debug\Month.exe.config
+E:\C#_programm\GB_2\Month\Month\bin\Debug\Month.exe
+E:\C#_programm\GB_2\Month\Month\bin\Debug\Month.pdb
+E:\C#_programm\GB_2\Month\Month\obj\Debug\Month.csproj.AssemblyReference.cache
+E:\C#_programm\GB_2\Month\Month\obj\Debug\Month.csproj.CoreCompileInputs.cache
+E:\C#_programm\GB_2\Month\Month\obj\Debug\Month.exe
+E:\C#_programm\GB_2\Month\Month\obj\Debug\Month.pdb
