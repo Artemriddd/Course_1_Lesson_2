@@ -1,0 +1,7 @@
+E:\C#_programm\GB_2\Check\Check\bin\Debug\Check.exe.config
+E:\C#_programm\GB_2\Check\Check\bin\Debug\Check.exe
+E:\C#_programm\GB_2\Check\Check\bin\Debug\Check.pdb
+E:\C#_programm\GB_2\Check\Check\obj\Debug\Check.csproj.AssemblyReference.cache
+E:\C#_programm\GB_2\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+E:\C#_programm\GB_2\Check\Check\obj\Debug\Check.exe
+E:\C#_programm\GB_2\Check\Check\obj\Debug\Check.pdb

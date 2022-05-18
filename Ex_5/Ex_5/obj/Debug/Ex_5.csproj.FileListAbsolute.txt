@@ -1,0 +1,8 @@
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\bin\Debug\Ex_5.exe.config
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\bin\Debug\Ex_5.exe
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\bin\Debug\Ex_5.pdb
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.AssemblyReference.cache
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.SuggestedBindingRedirects.cache
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\obj\Debug\Ex_5.csproj.CoreCompileInputs.cache
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\obj\Debug\Ex_5.exe
+D:\hhh\GB_2\GB_2\Ex_5\Ex_5\obj\Debug\Ex_5.pdb

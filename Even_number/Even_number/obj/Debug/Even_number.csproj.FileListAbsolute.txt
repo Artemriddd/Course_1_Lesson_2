@@ -1,0 +1,7 @@
+E:\C#_programm\GB_2\Even_number\Even_number\bin\Debug\Even_number.exe.config
+E:\C#_programm\GB_2\Even_number\Even_number\bin\Debug\Even_number.exe
+E:\C#_programm\GB_2\Even_number\Even_number\bin\Debug\Even_number.pdb
+E:\C#_programm\GB_2\Even_number\Even_number\obj\Debug\Even_number.csproj.AssemblyReference.cache
+E:\C#_programm\GB_2\Even_number\Even_number\obj\Debug\Even_number.csproj.CoreCompileInputs.cache
+E:\C#_programm\GB_2\Even_number\Even_number\obj\Debug\Even_number.exe
+E:\C#_programm\GB_2\Even_number\Even_number\obj\Debug\Even_number.pdb

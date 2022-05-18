@@ -1,0 +1,7 @@
+E:\C#_programm\GB_2\Ex_6\Ex_6\bin\Debug\Ex_6.exe.config
+E:\C#_programm\GB_2\Ex_6\Ex_6\bin\Debug\Ex_6.exe
+E:\C#_programm\GB_2\Ex_6\Ex_6\bin\Debug\Ex_6.pdb
+E:\C#_programm\GB_2\Ex_6\Ex_6\obj\Debug\Ex_6.csproj.AssemblyReference.cache
+E:\C#_programm\GB_2\Ex_6\Ex_6\obj\Debug\Ex_6.csproj.CoreCompileInputs.cache
+E:\C#_programm\GB_2\Ex_6\Ex_6\obj\Debug\Ex_6.exe
+E:\C#_programm\GB_2\Ex_6\Ex_6\obj\Debug\Ex_6.pdb
